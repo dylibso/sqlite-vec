@@ -65,7 +65,7 @@ orjson==3.10.6
 overrides==7.7.0
 packaging==24.1
 pandas==2.2.2
-pillow==10.4.0
+pillow==12.1.1
 posthog==3.5.0
 protobuf==4.25.4
 py==1.11.0
